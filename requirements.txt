@@ -1,0 +1,11 @@
+torch
+torchvision
+onnx
+onnxruntime
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+albumentations
+opencv-python
